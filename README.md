@@ -34,6 +34,10 @@ Just look into `src/App.svelte` and all code available there. I don't split to s
 - [x] No CSS, to make no distraction while learning.
 - [x] Easy to understand Redux Toolkit concepts and ready to use in your own project.
 
+## Demo
+
+https://redux-with-svelte.vercel.app
+
 ## License
 
 MIT
